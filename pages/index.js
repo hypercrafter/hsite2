@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my coding website!." />
         <p className="description">
-          I made text coding projects here.
+          I made text coding projects here. Visit my main website at hypercraftermc.wixsite.com/home
         </p>
       </main>
 
