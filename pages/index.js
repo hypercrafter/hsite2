@@ -16,7 +16,7 @@ export default function Home() {
           I made text coding projects here.
         </p>
         <p className="description">
-          Visit my website <a href="https://hypercraftermc.wixsite.com/home">here</a>
+          Visit my main page <a href="https://hypercraftermc.wixsite.com/home">here</a>
         </p>     
     </main>
     
