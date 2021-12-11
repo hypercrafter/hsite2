@@ -16,7 +16,10 @@ export default function Home() {
           I made text coding projects here. Visit my main website at hypercraftermc.wixsite.com/home
         </p>
       </main>
-   
+    <div>
+                    <iframe width="560" height="315" src="https://hypercraftermc.wixsite.com/home" title="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+              </div>   
       <Footer />
     </div>
   )
