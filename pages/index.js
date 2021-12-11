@@ -16,7 +16,7 @@ export default function Home() {
           I made text coding projects here. Visit my main website at hypercraftermc.wixsite.com/home
         </p>
       </main>
-
+    <iframe src="https://hypercraftermc.wixsite.com/home" title="My main website"></iframe>
       <Footer />
     </div>
   )
