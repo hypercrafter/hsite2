@@ -15,7 +15,10 @@ export default function Home() {
         <p className="description">
           I made text coding projects here.
         </p>
-     </main>
+        <p className="description">
+          Visit my website <a href="https://hypercraftermc.wixsite.com/home">here</a>
+        </p>     
+    </main>
     
       <Footer />
     </div>
